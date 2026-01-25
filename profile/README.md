@@ -22,11 +22,10 @@ Building software, ML infrastructure, and developer tooling out in the open. Our
 - [**fast-crewai**](https://github.com/neul-labs/fast-crewai) – Drop-in shims that speed up CrewAI memory + storage 2-5x.
 - [**fast-langgraph**](https://github.com/neul-labs/fast-langgraph) – Cache + checkpoint primitives for LangGraph, written in Rust.
 - [**fastworker**](https://github.com/neul-labs/fastworker) – Brokerless task queues plus a control plane/GUI for Python apps.
-- [**savanty**](https://github.com/neul-labs/savanty) – Constraint-solving assistant that turns natural language specs into provable schedules.
 
 ## Join the Work
 
 - Clone a repo, open an issue, or drop a PR. We review fast and treat community contributions just like internal work.
-- Follow along via [our website](https://neul-labs.com) and the “Lab Notes” blog for architecture updates.
+- Follow along via [our website](https://neullabs.com) and the “Lab Notes” blog for architecture updates.
 
 _Neul Labs Ltd. • Edinbuirgh, United Kingdom_
