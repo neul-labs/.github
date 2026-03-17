@@ -28,4 +28,4 @@ Building software, ML infrastructure, and developer tooling out in the open. Our
 - Clone a repo, open an issue, or drop a PR. We review fast and treat community contributions just like internal work.
 - Follow along via [our website](https://neullabs.com) and the “Lab Notes” blog for architecture updates.
 
-_Neul Labs Ltd. • Edinbuirgh, United Kingdom_
+_Neul Labs Ltd. • Edinburgh, United Kingdom_
