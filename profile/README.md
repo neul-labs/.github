@@ -18,8 +18,7 @@ We build the fast parts of the AI stack. Rust-accelerated drop-in replacements f
 
 <div align="center">
 
-[![Regulus](https://github.com/neul-labs/regulus)](#)
-**The EU & UK compliance plane for Google ADK.**
+**🌟 [Regulus](https://github.com/neul-labs/regulus) — The EU & UK compliance plane for Google ADK.**
 Runtime `BasePlugin` suite encoding 10 regulations (EU AI Act, GDPR, DORA, NIS2, EHDS, UK GDPR, FCA SYSC, PRA SS1/23, PRA SS2/21, NHS DSPT) and 6 governance frameworks as runtime profiles. Hash-chained audit envelopes, PII redaction, dual-control kill switch, fail-closed data residency.
 `Java 21` · `Maven` · [regulus-ai-adk-plugins](https://central.sonatype.com/namespace/com.neullabs) · [Repo](https://github.com/neul-labs/regulus)
 
