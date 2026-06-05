@@ -8,7 +8,7 @@ We build the fast parts of the AI stack. Rust-accelerated drop-in replacements f
 
 [Website](https://www.neullabs.com) · [Docs](https://docs.neullabs.com) · [Support](mailto:support@neullabs.com)
 
-29 public projects · MIT/Apache 2.0 · Built in the United Kingdom
+29 public projects · MIT/Apache 2.0
 
 </div>
 
@@ -89,6 +89,4 @@ Every project is MIT or Apache 2.0 licensed and accepts contributions. See the i
 
 ## Contact
 
-[support@neullabs.com](mailto:support@neullabs.com) · [neullabs.com](https://www.neullabs.com) · [docs.neullabs.com](https://docs.neullabs.com) · Based in the United Kingdom.
-
-<sub>Performance numbers in the flagship table are quoted from each project's own README and benchmark suite. We don't make them up.</sub>
+[support@neullabs.com](mailto:support@neullabs.com) · [neullabs.com](https://www.neullabs.com) · [docs.neullabs.com](https://docs.neullabs.com)
