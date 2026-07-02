@@ -18,9 +18,9 @@ We build the fast parts of the AI stack. Rust-accelerated drop-in replacements f
 
 <div align="center">
 
-**🌟 [Regulus](https://github.com/neul-labs/regulus) — The EU & UK compliance plane for Google ADK.**
+**🌟 [Regulus](https://github.com/neul-labs/regulus) · [site ↗](https://regulus.neullabs.com) — The EU & UK compliance plane for Google ADK.**
 Runtime `BasePlugin` suite encoding 10 regulations (EU AI Act, GDPR, DORA, NIS2, EHDS, UK GDPR, FCA SYSC, PRA SS1/23, PRA SS2/21, NHS DSPT) and 6 governance frameworks as runtime profiles. Hash-chained audit envelopes, PII redaction, dual-control kill switch, fail-closed data residency.
-`Java 21` · `Maven` · [regulus-ai-adk-plugins](https://central.sonatype.com/namespace/com.neullabs) · [Repo](https://github.com/neul-labs/regulus)
+`Java 21` · `Maven` · [regulus-ai-adk-plugins](https://central.sonatype.com/namespace/com.neullabs) · [Repo](https://github.com/neul-labs/regulus) · [site ↗](https://regulus.neullabs.com)
 
 </div>
 
@@ -32,13 +32,13 @@ The agent stack is built on Python libraries that were never designed for produc
 
 | Project | What it accelerates | Speedup (per the project) |
 |---|---|---|
-| [fast-litellm](https://github.com/neul-labs/fast-litellm) | LiteLLM connection pooling, rate limiting | 3.2× pool, 2.8× rate limit |
-| [fast-langgraph](https://github.com/neul-labs/fast-langgraph) | LangGraph checkpoint + state management | 700× checkpoint, 10–50× state |
-| [fast-crewai](https://github.com/neul-labs/fast-crewai) | CrewAI serialization, tools, DB search | 34× / 17× / 11× |
-| [fast-axolotl](https://github.com/neul-labs/fast-axolotl) | Axolotl LLM fine-tuning (dedup SHA256) | Multi-threaded, no OOM |
-| [fastworker](https://github.com/neul-labs/fastworker) | Python background workers | No Redis. No RabbitMQ. |
-| [ormai](https://github.com/neul-labs/ormai) | Agent DB access (LangGraph / PydanticAI / SQLAlchemy / Tortoise) | Safe text-to-SQL |
-| [fastagentic](https://github.com/neul-labs/fastagentic) | Production runtime for PydanticAI / LangGraph / CrewAI / LangChain | Cached `run_id`, MCP server |
+| [fast-litellm](https://github.com/neul-labs/fast-litellm) · [site ↗](https://fast-litellm.neullabs.com) | LiteLLM connection pooling, rate limiting | 3.2× pool, 2.8× rate limit |
+| [fast-langgraph](https://github.com/neul-labs/fast-langgraph) · [site ↗](https://fast-langgraph.neullabs.com) | LangGraph checkpoint + state management | 700× checkpoint, 10–50× state |
+| [fast-crewai](https://github.com/neul-labs/fast-crewai) · [site ↗](https://fast-crewai.neullabs.com) | CrewAI serialization, tools, DB search | 34× / 17× / 11× |
+| [fast-axolotl](https://github.com/neul-labs/fast-axolotl) · [site ↗](https://fast-axolotl.neullabs.com) | Axolotl LLM fine-tuning (dedup SHA256) | Multi-threaded, no OOM |
+| [fastworker](https://github.com/neul-labs/fastworker) · [site ↗](https://fastworker.neullabs.com) | Python background workers | No Redis. No RabbitMQ. |
+| [ormai](https://github.com/neul-labs/ormai) · [site ↗](https://ormai.neullabs.com) | Agent DB access (LangGraph / PydanticAI / SQLAlchemy / Tortoise) | Safe text-to-SQL |
+| [fastagentic](https://github.com/neul-labs/fastagentic) · [site ↗](https://fastagentic.neullabs.com) | Production runtime for PydanticAI / LangGraph / CrewAI / LangChain | Cached `run_id`, MCP server |
 
 ---
 
@@ -46,18 +46,18 @@ The agent stack is built on Python libraries that were never designed for produc
 
 | Project | Description |
 |---|---|
-| [mcp-pay](https://github.com/neul-labs/mcp-pay) | Payment awareness layer for MCP (Model Context Protocol). |
-| [agentvfs](https://github.com/neul-labs/agentvfs) | Workspace runtime and execution boundary for AI agents. |
-| [brat](https://github.com/neul-labs/brat) | Multi-agent harness for AI coding tools. Crash-safe state, parallel execution, one CLI. |
-| [ringlet](https://github.com/neul-labs/ringlet) | One CLI to rule all your coding agents. Profile-isolated, cost-tracked. |
-| [grite](https://github.com/neul-labs/grite) | The issue tracker that lives in your repo. Built for AI agents. |
-| [memorg](https://github.com/neul-labs/memorg) | Give your LLM a memory that actually works. |
-| [stratafs](https://github.com/neul-labs/stratafs) | A semantic filesystem that turns file storage into a searchable knowledge base. |
-| [openclawOS](https://github.com/neul-labs/openclawOS) | OS-like architecture for AI assistants with kernel-based, process-isolated applications. |
-| [openclawMU](https://github.com/neul-labs/openclawMU) | Multi-tenant fork of OpenClaw with strict data isolation. |
-| [openclaw-rs](https://github.com/neul-labs/openclaw-rs) | Community Rust implementation of OpenClaw. |
-| [ukkin](https://github.com/neul-labs/ukkin) | Create AI agents on your phone that automate your daily tasks. |
-| [m9m](https://github.com/neul-labs/m9m) | The n8n alternative without the bugs — faster, more reliable workflow automation in Go. |
+| [mcp-pay](https://github.com/neul-labs/mcp-pay) · [site ↗](https://mcp-pay.neullabs.com) | Payment awareness layer for MCP (Model Context Protocol). |
+| [agentvfs](https://github.com/neul-labs/agentvfs) · [site ↗](https://agentvfs.neullabs.com) | Workspace runtime and execution boundary for AI agents. |
+| [brat](https://github.com/neul-labs/brat) · [site ↗](https://brat.neullabs.com) | Multi-agent harness for AI coding tools. Crash-safe state, parallel execution, one CLI. |
+| [ringlet](https://github.com/neul-labs/ringlet) · [site ↗](https://ringlet.neullabs.com) | One CLI to rule all your coding agents. Profile-isolated, cost-tracked. |
+| [grite](https://github.com/neul-labs/grite) · [site ↗](https://grite.neullabs.com) | The issue tracker that lives in your repo. Built for AI agents. |
+| [memorg](https://github.com/neul-labs/memorg) · [site ↗](https://memorg.neullabs.com) | Give your LLM a memory that actually works. |
+| [stratafs](https://github.com/neul-labs/stratafs) · [site ↗](https://stratafs.neullabs.com) | A semantic filesystem that turns file storage into a searchable knowledge base. |
+| [openclawOS](https://github.com/neul-labs/openclawOS) · [site ↗](https://openclawos.neullabs.com) | OS-like architecture for AI assistants with kernel-based, process-isolated applications. |
+| [openclawMU](https://github.com/neul-labs/openclawMU) · [site ↗](https://openclawmu.neullabs.com) | Multi-tenant fork of OpenClaw with strict data isolation. |
+| [openclaw-rs](https://github.com/neul-labs/openclaw-rs) · [site ↗](https://openclaw-rs.neullabs.com) | Community Rust implementation of OpenClaw. |
+| [ukkin](https://github.com/neul-labs/ukkin) · [site ↗](https://ukkin.neullabs.com) | Create AI agents on your phone that automate your daily tasks. |
+| [m9m](https://github.com/neul-labs/m9m) · [site ↗](https://m9m.neullabs.com) | The n8n alternative without the bugs — faster, more reliable workflow automation in Go. |
 
 ---
 
@@ -65,15 +65,15 @@ The agent stack is built on Python libraries that were never designed for produc
 
 | Project | Description |
 |---|---|
-| [gity](https://github.com/neul-labs/gity) | Make large Git repositories feel instant. |
-| [stout](https://github.com/neul-labs/stout) | Stout is a drop-in replacement for the Homebrew CLI that's 10–100× faster for most operations. |
-| [stout-index](https://github.com/neul-labs/stout-index) | Pre-computed package index for [stout](https://github.com/neul-labs/stout). |
-| [rjest](https://github.com/neul-labs/rjest) | A blazing-fast Jest-compatible test runner. 100× faster warm runs. Zero config changes. |
-| [rpytest](https://github.com/neul-labs/rpytest) | Run your pytest suite faster. Change nothing. |
-| [rninja](https://github.com/neul-labs/rninja) | Build faster. Cache smarter. Drop-in ready (Ninja replacement). |
-| [recurl](https://github.com/neul-labs/recurl) | curl that just works. Drop-in replacement with automatic anti-bot bypass. |
-| [rewget](https://github.com/neul-labs/rewget) | wget, but it works everywhere. |
-| [stkd](https://github.com/neul-labs/stkd) | Stacked Diffs for GitHub and GitLab (Graphite-compatible). |
+| [gity](https://github.com/neul-labs/gity) · [site ↗](https://gity.neullabs.com) | Make large Git repositories feel instant. |
+| [stout](https://github.com/neul-labs/stout) · [site ↗](https://stout.neullabs.com) | Stout is a drop-in replacement for the Homebrew CLI that's 10–100× faster for most operations. |
+| [stout-index](https://github.com/neul-labs/stout-index) | Pre-computed package index for [stout](https://github.com/neul-labs/stout) · [site ↗](https://stout.neullabs.com). |
+| [rjest](https://github.com/neul-labs/rjest) · [site ↗](https://rjest.neullabs.com) | A blazing-fast Jest-compatible test runner. 100× faster warm runs. Zero config changes. |
+| [rpytest](https://github.com/neul-labs/rpytest) · [site ↗](https://rpytest.neullabs.com) | Run your pytest suite faster. Change nothing. |
+| [rninja](https://github.com/neul-labs/rninja) · [site ↗](https://rninja.neullabs.com) | Build faster. Cache smarter. Drop-in ready (Ninja replacement). |
+| [recurl](https://github.com/neul-labs/recurl) · [site ↗](https://recurl.neullabs.com) | curl that just works. Drop-in replacement with automatic anti-bot bypass. |
+| [rewget](https://github.com/neul-labs/rewget) · [site ↗](https://rewget.neullabs.com) | wget, but it works everywhere. |
+| [stkd](https://github.com/neul-labs/stkd) · [site ↗](https://stkd.neullabs.com) | Stacked Diffs for GitHub and GitLab (Graphite-compatible). |
 
 ---
 
@@ -86,6 +86,18 @@ We fix these bottlenecks one at a time: profile, rewrite the hot path in Rust, s
 ## Contributing
 
 Every project is MIT or Apache 2.0 licensed and accepts contributions. See the individual repository for setup instructions.
+
+
+---
+
+## About Neul Labs
+
+**Neul Labs** builds high-performance, open-source infrastructure for AI agents — Rust-accelerated drop-in replacements for the tools agent stacks depend on. Founded to fix the production bottlenecks in the Python AI stack. All projects MIT/Apache-2.0.
+
+- 🌐 Website: https://www.neullabs.com
+- 📚 Docs: https://docs.neullabs.com
+- 💻 GitHub: https://github.com/neul-labs
+- ✉️ Contact: support@neullabs.com
 
 ## Contact
 
