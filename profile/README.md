@@ -6,7 +6,7 @@
 
 We build the fast parts of the AI stack. Rust-accelerated drop-in replacements for the tools agents actually depend on — LLM gateways, workflow engines, package managers, and developer tooling. Zero config. No rewrites. Just faster.
 
-[Website](https://www.neullabs.com) · [Docs](https://docs.neullabs.com) · [Support](mailto:support@neullabs.com)
+[Website](https://www.neullabs.com) · [Docs](https://docs.neullabs.com) · [Support](mailto:contact@neullabs.com)
 
 29 public projects · MIT/Apache 2.0
 
@@ -97,8 +97,8 @@ Every project is MIT or Apache 2.0 licensed and accepts contributions. See the i
 - 🌐 Website: https://www.neullabs.com
 - 📚 Docs: https://docs.neullabs.com
 - 💻 GitHub: https://github.com/neul-labs
-- ✉️ Contact: support@neullabs.com
+- ✉️ Contact: contact@neullabs.com
 
 ## Contact
 
-[support@neullabs.com](mailto:support@neullabs.com) · [neullabs.com](https://www.neullabs.com) · [docs.neullabs.com](https://docs.neullabs.com)
+[contact@neullabs.com](mailto:contact@neullabs.com) · [neullabs.com](https://www.neullabs.com) · [docs.neullabs.com](https://docs.neullabs.com)
